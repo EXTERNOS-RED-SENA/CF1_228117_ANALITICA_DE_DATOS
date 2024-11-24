@@ -62,7 +62,7 @@
                   | Puede ser difícil acceder a ciertos tipos de datos de manera directa (por ejemplo, en estudios con grandes poblaciones).
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7.order-lg-1.order-2
         .row.justify-content-center.align-items-center
           .col-lg-12
             .titulo.mb-4(data-aos="flip-up")
@@ -103,7 +103,7 @@
                 i.fas.fa-check.v1
                 span
                   | Pueden no estar actualizados o ser obsoletos.
-      .col-lg-5
+      .col-lg-5.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t7/4.png', alt='') 
 
     Separador 
@@ -223,7 +223,7 @@
       b fuentes de datos secundarias
       |  incluyen una amplia gama de materiales que pueden ser reutilizados para investigaciones actuales. Algunos ejemplos de estas fuentes incluyen:
     .row.justify-content-center.mb-4 
-      .col-lg-8.my-3
+      .col-lg-8.my-3.order-lg-1.order-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Bases de datos públicas")
             .col-lg-12.my-3
@@ -277,7 +277,7 @@
                   i.fas.fa-check.v1
                   span
                     | Los datos secundarios pueden estar desactualizados o no haber sido recolectados con el rigor necesario.
-      .col-lg-4.my-3
+      .col-lg-4.my-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t7/8.png', alt='') 
       
     Separador 

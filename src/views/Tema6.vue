@@ -187,7 +187,7 @@
     #t_6_5.titulo-segundo.color-acento-botones
       h2 6.5	Impacto de los requerimientos en la precisión y relevancia de los datos
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7.order-lg-1.order-2
         p Los requerimientos establecidos para la recolección de datos tienen un impacto directo en la calidad, precisión y relevancia de los datos obtenidos. Si los requerimientos son demasiado amplios o ambiguos, es probable que se recojan datos innecesarios o que falte información crítica. Por el contrario, requerimientos muy estrictos pueden limitar la cantidad de datos disponibles y llevar a conclusiones insuficientes.
         p
           b Precisión de los datos:
@@ -197,7 +197,7 @@
             b Relevancia de los datos:
             |  solo deben recolectarse los datos que son relevantes para el estudio. Los requerimientos deben estar alineados con los objetivos del análisis para evitar recolectar datos innecesarios o irrelevantes, lo cual solo incrementaría la complejidad del análisis sin agregar valor.
         
-      .col-lg-5
+      .col-lg-5.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t6/11.png', alt='') 
     p
       b Coherencia y comparabilidad:

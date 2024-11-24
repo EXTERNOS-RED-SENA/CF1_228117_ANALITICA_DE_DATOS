@@ -20,7 +20,7 @@
       h2 3.1	Fases del proceso estadístico: recolección, análisis e interpretación
     p El proceso estadístico generalmente se divide en tres grandes fases:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         .row.justify-content-center.align-items-center
           .col-lg-12
             .titulo.mb-4(data-aos="flip-up")
@@ -44,7 +44,7 @@
                     span
                       b Registros administrativos:
                       |  uso de datos ya existentes como los registros médicos, registros financieros, etc.
-      .col-lg-4
+      .col-lg-4.order-lg-2.order-1
         img.img-t.img-a(src='@/assets/template/images/t3/3.png')
     
     .row.justify-content-center.align-items-center.mb-5
@@ -121,7 +121,7 @@
     p Cada fase del proceso estadístico tiene objetivos claros que contribuyen a la integridad del análisis y a la validez de los resultados:
     
     .row.justify-content-center.mb-4 
-      .col-lg-8.my-3
+      .col-lg-8.my-3.order-lg-1.order-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Recolección de datos")
             .col-lg-12.my-3
@@ -133,7 +133,7 @@
             .col-lg-12.my-3
               p El objetivo aquí es proporcionar una explicación clara y precisa de los hallazgos del análisis de datos. La interpretación correcta de los resultados es fundamental para que las conclusiones del estudio sean útiles y relevantes para la toma de decisiones.
           
-      .col-lg-4.my-3
+      .col-lg-4.my-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t3/8.png', alt='') 
     Separador 
     #t_3_3.titulo-segundo.color-acento-botones

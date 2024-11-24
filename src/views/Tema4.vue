@@ -38,7 +38,7 @@
       h2 4.2	Muestreo estratificado: ventajas y procedimientos
     p.mb-4 El muestreo estratificado es una técnica en la que la población se divide en subgrupos homogéneos llamados estratos, y luego se selecciona una muestra aleatoria de cada estrato. Este método garantiza que todos los subgrupos de la población estén representados en la muestra, lo cual es particularmente útil cuando la población es heterogénea.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         .row.justify-content-center.align-items-center
           .col-lg-12
             .titulo.mb-4(data-aos="flip-up")
@@ -61,7 +61,7 @@
                     i.fas.fa-check.v1
                     span
                       | Mejora la representación de subgrupos pequeños en la población, que de otro modo podrían estar subrepresentados en un muestreo aleatorio simple.
-      .col-lg-4
+      .col-lg-4.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t4/3.png', alt='') 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.my-lg-0.my-3.j1
@@ -101,7 +101,7 @@
       | es una técnica en la que la población se divide en grupos heterogéneos, o conglomerados, y luego se selecciona al azar uno o varios de estos conglomerados para ser estudiados en su totalidad. A diferencia del muestreo estratificado, los conglomerados no son homogéneos, sino que cada uno representa una "miniatura" de la población completa.
     
     .row.justify-content-center.mb-4 
-      .col-lg-8.my-3
+      .col-lg-8.my-3.order-lg-1.order-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Definición")
             .col-lg-12.my-3
@@ -133,7 +133,7 @@
                   span
                     | Investigación sobre la satisfacción de empleados en una empresa con múltiples sucursales. Se puede seleccionar un conjunto de sucursales (conglomerados) y encuestar a todos los empleados de esas sucursales.
           
-      .col-lg-4.my-3
+      .col-lg-4.my-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t4/5.png', alt='') 
     Separador 
     #t_4_4.titulo-segundo.color-acento-botones
@@ -176,7 +176,7 @@
     p El tamaño de la muestra es un factor que afecta la precisión de los resultados obtenidos mediante el muestreo. Independientemente de la técnica de muestreo elegida, el tamaño de la muestra debe ser suficiente para minimizar el error estándar y garantizar la representatividad de la población.
     
     .row.justify-content-center.mb-4 
-      .col-lg-8.my-3
+      .col-lg-8.my-3.order-lg-1.order-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Muestreo aleatorio simple")
             .col-lg-12.my-3
@@ -197,7 +197,7 @@
                 b Muestreo sistemático:
                 | de la misma población de 20 empleados, seleccionamos un empleado cada 4 (comenzando con el empleado 3). Los empleados seleccionados serían: 3, 7, 11, 15, 19.
               p Esto asegura una distribución uniforme en la selección de empleados.
-      .col-lg-4.my-3
+      .col-lg-4.my-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t4/7.svg', alt='') 
 
 </template>

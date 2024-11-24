@@ -23,7 +23,7 @@
       h2 5.1	Concepto de inferencia estadística y su relevancia
     p El proceso estadístico generalmente se divide en tres grandes fases:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         .row.justify-content-center.align-items-center
           .col-lg-12
             p La inferencia estadística se refiere a los métodos utilizados para extraer conclusiones sobre una población basándose en una muestra de esa población. La inferencia es esencial en situaciones donde sería demasiado costoso o imposible obtener datos de todos los elementos de una población (por ejemplo, una encuesta nacional o un estudio médico con miles de pacientes).
@@ -46,7 +46,7 @@
                       b Toma de decisiones:
                       |  la inferencia es clave para tomar decisiones basadas en datos, como en investigaciones científicas, estudios de mercado, o procesos industriales de control de calidad.
                       | Ejemplo: En una empresa que quiere conocer la satisfacción de los clientes, la inferencia estadística permite estimar la satisfacción global basándose en una encuesta a una muestra representativa de clientes.
-      .col-lg-4
+      .col-lg-4.order-lg-2.order-1
         img.img-t.img-a(src='@/assets/template/images/t5/3.png')
     Separador 
     #t_5_2.titulo-segundo.color-acento-botones
@@ -185,7 +185,7 @@
       |  si una empresa está probando si una nueva campaña publicitaria mejora las ventas en comparación con la campaña anterior, la hipótesis nula podría ser que no hay diferencia en las ventas. Al realizar la prueba de hipótesis, si el valor p es menor que 0.05, la empresa puede concluir que la nueva campaña es significativamente más efectiva.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7.order-lg-1.order-2
         .bg17.p-4.brad
           b Ejemplo: prueba de hipótesis
           p.mt-3 Supungamos que queremos probar si el salario promedio de los empleados en una empresa es mayor a $ 50.000. Tenemos una muestra de 30 empleados con una media de x = 52,000 y una desviación estándar de &#8709; = 8,000
@@ -204,7 +204,7 @@
           
          
           p Con un nivel de significancia o = 0.05, el valor crítico para t con 29 grados de libertad es 1.699. Como t = 1.37 < 1.699, no podemos rechazar H<sub>0</sub>, lo que indica que no hay suficiente evidencia para afirmar que el salario promedio es mayor a $ 50,000.
-      .col-lg-3
+      .col-lg-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t5/9.svg' alt='')
 
 </template>

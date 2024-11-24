@@ -43,7 +43,7 @@
     p Para que los resultados de un estudio estadístico sean válidos, la muestra debe ser representativa de la población. Esto significa que debe reflejar las características clave de la población, como la distribución de edad, género, ingresos, etc. Para garantizar que una muestra sea representativa, es importante seguir estos criterios:
     
     .row.justify-content-center.mb-4 
-      .col-lg-8.my-3
+      .col-lg-8.my-3.order-lg-1.order-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Aleatoriedad")
             .col-lg-12.my-3
@@ -55,7 +55,7 @@
             .col-lg-12.my-3
               p Si la población es muy diversa, es importante asegurarse de que la muestra incluya subgrupos que representen esa diversidad. Técnicas como el muestreo estratificado se utilizan para garantizar que se incluyan todas las categorías importantes de la población.
           
-      .col-lg-4.my-3
+      .col-lg-4.my-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t2/3.png', alt='') 
     
     Separador 
@@ -109,7 +109,7 @@
     p Un intervalo de confianza es un rango dentro del cual es probable que se encuentre un parámetro poblacional, basado en una muestra. El tamaño de la muestra afecta el ancho del intervalo de confianza: muestras más grandes generan intervalos más estrechos, lo que indica mayor precisión.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7.order-lg-1.order-2
         .bgi.p-4.brad
           p #[b Ejemplo: selección de una muestra representativa]
           p Supongamos que tenemos una población de 500 estudiantes en una universidad y queremos estudiar su rendimiento académico. Seleccionamos una muestra de 50 estudiantes utilizando un muestreo estratificado por nivel educativo (pregado y posgrado)
@@ -143,7 +143,7 @@
             </div>
           p De esta manera, la muestra de 50 estudiantes mantiene las proporciones de la población en términos de niveles educativos.
 
-      .col-lg-3
+      .col-lg-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t2/7.png', alt='')
 </template>
 

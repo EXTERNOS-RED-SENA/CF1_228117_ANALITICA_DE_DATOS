@@ -82,7 +82,7 @@
       h2 8.2	Consideraciones al seleccionar una muestra para minimizar el error
     p El error muestral es la diferencia entre el valor estimado a partir de la muestra y el valor real de la población. Para minimizar este error y mejorar la precisión de los resultados, es necesario tener en cuenta varias consideraciones al seleccionar una muestra:
     .row.justify-content-center.mb-4 
-      .col-lg-7.my-3
+      .col-lg-7.my-3.order-lg-1.order-2
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Tamaño de la muestra")
             .col-lg-12.my-3
@@ -98,7 +98,7 @@
           .row.justify-content-center(titulo="Métodos de recolección de datos")
             .col-lg-12.my-3
               p Es importante que los métodos utilizados para recolectar datos de la muestra sean consistentes y que no introduzcan sesgos. La capacitación del personal encargado de la recolección de datos y la estandarización de los procedimientos son claves para minimizar el error.
-      .col-lg-5.my-3
+      .col-lg-5.my-3.order-lg-2.order-1
         img.img-a.img-t(src='@/assets/template/images/t8/3.png', alt='')
       
     
@@ -169,7 +169,7 @@
       |  comparar los resultados obtenidos a partir de la muestra con estudios o investigaciones anteriores que utilizaron diferentes métodos o datos secundarios. Si los resultados coinciden, es una indicación de que la muestra es representativa.
   
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.mb-3
         img.img-a.img-t(src='@/assets/template/images/t8/7.png' alt='')
       .col-lg-7
         .bg17.p-4.brad
