@@ -10,7 +10,7 @@
             .col-lg-7.my-lg-0.my-3
               .bg30.text-white.p-3.brad.j1.h-100
                 p
-                  | El siguiente diagrama proporciona una visi&oacute;n general de los principales temas abordados en este componente, centrado en el uso de medidas estad&iacute;sticas y probabil&iacute;sticas para el an&aacute;lisis de datos. Este mapa conceptual est&aacute; dise&ntilde;ado para facilitar al lector la visualizaci&oacute;n de las interrelaciones entre las diferentes &aacute;reas que componen el proceso de an&aacute;lisis estad&iacute;stico, contribuyendo a una comprensi&oacute;n estructurada y pr&aacute;ctica de los conceptos clave.
+                  | El siguiente diagrama proporciona una visión general sintetizada de los principales temas abordados en este componente sobre la recolección de datos para análisis. Este mapa está diseñado para ayudar al lector a visualizar la interrelación entre las diversas áreas que constituyen el proceso de recolección de datos en el contexto estadístico a partir de los diversos tipos de fuentes y de las técnicas que se pueden usar para la recolección y el análisis de los datos.
             .col-lg-5.my-lg-0.col-8.mb-lg-0.mb-4.my-3.j1
               img.img-fluid.img-a(src='@/assets/template/images/cf1/106.png')
           .row.justify-content-center.align-items-center.bg19.br-d.p-4.brad
@@ -18,9 +18,9 @@
               img.img-a.img-t(src='@/assets/template/images/cf1/121.png' alt='')
             .col.pt-lg-0.pt-md-4
               p.mb-0
-                | En el origen del diagrama se encuentra el concepto principal de &quot;An&aacute;lisis estad&iacute;stico de datos y generaci&oacute;n de gr&aacute;ficos&quot;, del cual se derivan los temas esenciales: Medidas de tendencia central, Medidas de dispersi&oacute;n, Medidas de posici&oacute;n, Probabilidades y Gr&aacute;ficos estad&iacute;sticos. Cada &aacute;rea se subdivide en conceptos espec&iacute;ficos, como media, varianza, cuartiles y distribuci&oacute;n de probabilidades, los cuales reflejan la organizaci&oacute;n del contenido del componente.
+                | En el origen del diagrama se encuentra el concepto principal de "Recolección de datos para análisis", del cual se derivan temas fundamentales: conceptos generales de estadística, población y muestra en estadística, procesos estadísticos, técnicas de muestreo, inferencia estadística, requerimientos para la recolección de datos, fuentes de datos y determinación de la muestra. Cada una de estas áreas se subdivide en conceptos clave, reflejando la estructura y el contenido del componente.
       p.mb-5
-        | Este diagrama act&uacute;a como una gu&iacute;a visual que acompa&ntilde;a al lector en la exploraci&oacute;n de los conceptos presentados, permiti&eacute;ndole captar de manera r&aacute;pida la estructura y el alcance de los temas tratados, as&iacute; como sus conexiones. Al consultar este mapa, el lector podr&aacute; apreciar c&oacute;mo los distintos aspectos de la estad&iacute;stica se integran para formar un proceso coherente de an&aacute;lisis y presentaci&oacute;n de datos. Se invita a utilizar este diagrama como un complemento al contenido detallado del componente, sirviendo como una referencia visual y un recordatorio de los principios esenciales en el an&aacute;lisis estad&iacute;stico y la visualizaci&oacute;n de datos.
+        | Este diagrama actúa como una guía visual para explorar los conceptos presentados en el texto, permitiendo al lector comprender rápidamente la amplitud y la organización de los temas tratados, así como sus conexiones. Al revisar este mapa, el aprendiz podrá observar cómo los diferentes aspectos de la estadística y la recolección de datos se entrelazan para formar un proceso integral y sistemático. Se invita a utilizar este diagrama como un complemento al contenido detallado del componente, sirviendo como una referencia rápida y un recordatorio visual de los conceptos esenciales en la recolección de datos para análisis estadístico.
   
   
       .row.justify-content-center

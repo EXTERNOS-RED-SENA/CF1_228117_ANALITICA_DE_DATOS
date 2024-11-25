@@ -13,8 +13,7 @@
       .col.pt-lg-0.pt-md-4
         p.mb-0
           | La estadística es una disciplina matemática que se ocupa de la recolección, análisis, interpretación y presentación de datos. Es esencial en diversos campos como la economía, la biología, la ingeniería, y las ciencias sociales, ya que proporciona las herramientas para realizar investigaciones basadas en datos y tomar decisiones informadas.
-    
-   
+  
     #t_1_1.titulo-segundo.color-acento-botones.mt-5
       h2 1.1 Definición de estadística y su propósito
 

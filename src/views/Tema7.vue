@@ -137,7 +137,7 @@
                 span
                   b Consistencia:
                   |  verificar si los datos son consistentes a lo largo del tiempo y entre diferentes fuentes. Inconsistencias pueden indicar problemas en la recolección o procesamiento de los datos.
-      .p-4.py-99.py-md-5(titulo="Requerimientos cualitativos")
+      .p-4.py-99.py-md-5(titulo="Criterios para evaluar la validez de una fuente de datos")
         .row
           .col-lg-4
             img.img-a.img-t(src='@/assets/template/images/t7/6.png', alt='')

@@ -116,6 +116,7 @@
               p 
                 b Error estándar:
                 |  el error estándar disminuye a medida que el tamaño de la muestra aumenta. Un error estándar menor implica una mayor precisión en las estimaciones realizadas sobre la población.
+              p Ejemplo: Si se estima el ingreso promedio de una población con una muestra pequeña, el intervalo de confianza será más amplio y menos preciso. Con una muestra más grande, el intervalo se estrechará, lo que indicará una estimación más precisa del parámetro poblacional.
               
         .bg19.brad.px-4.p-3.my-3
           .row
